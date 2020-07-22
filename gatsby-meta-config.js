@@ -1,27 +1,27 @@
 module.exports = {
-  title: `Bee starter`,
+  title: `Francis's Blog`,
   description: `Blog posted about ...`,
-  author: `[Your Name]`,
+  author: `[Akoji Francis]`,
   introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
-  siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
+  siteUrl: `https://akf-blog.vercel.app`, // Your blog site url
   social: {
-    twitter: ``, // Your Twitter account
-    github: ``, // Your GitHub account
+    twitter: `akoji_f`, // Your Twitter account
+    github: `akojif`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
-    linkedin: ``, // Your LinkedIn account
+    linkedin: `akojif`, // Your LinkedIn account
   },
   icon: `content/assets/felog.png`, // Add your favicon
   keywords: [`blog`],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
-    utterances: 'JaeYeopHan/gatsby-starter-bee', // Your repository for archive comment
+    utterances: 'akojif/akf-blog', // Your repository for archive comment
   },
   configs: {
     countOfInitialPost: 10, // Config your initial count of post
   },
   sponsor: {
-    buyMeACoffeeId: 'jbee',
+    buyMeACoffeeId: 'akojif',
   },
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
