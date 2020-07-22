@@ -1,20 +1,9 @@
-<div align="center">
 
-  <img src="./assets/gatsby-starter-bee.png" width="360px" />
 
-</div>
-
-[![Financial Contributors on Open Collective](https://opencollective.com/gatsby-starter-bee/all/badge.svg?label=financial+contributors)](https://opencollective.com/gatsby-starter-bee) [![Greenkeeper badge](https://badges.greenkeeper.io/JaeYeopHan/gatsby-starter-bee.svg)](https://greenkeeper.io/)
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/JaeYeopHan/gatsby-starter-bee.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/JaeYeopHan/gatsby-starter-bee/alerts/)
-[![Lighthouse score: 100/100](https://lighthouse-badge.appspot.com/?score=100)](https://github.com/ebidel/lighthouse-badge)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4b1962ce-6206-4d8f-9516-63be92294198/deploy-status)](https://app.netlify.com/sites/gatsby-starter-bee/deploys)
-
-<a href="https://twitter.com/JbeeLjyhanll">
-<img alt="Twitter: JbeeLjyhanll" src="https://img.shields.io/twitter/follow/JbeeLjyhanll.svg?style=social" target="_blank" />
+<a href="https://twitter.com/akoji_f">
+<img alt="Twitter: akoji_f" src="https://img.shields.io/twitter/follow/akoji_f.svg?style=social" target="_blank" />
 </a>
 
-[한국어🇰🇷](./README.ko.md)
 
 ![screenshot](./assets/screenshot.png)
 
@@ -34,40 +23,8 @@ In this template...
 
 ## Demo
 
-- [Default Theme](https://gatsby-starter-bee.netlify.com/)
+- [Default Theme](https://akf-blog.vercel.app/)
 
-<details>
-  <summary>Use case</summary>
-  <p>
-    <img src="./assets/demos.png" alt="demo-image">
-    <ul>
-      <li>JBEE.io: https://jbee.io</li>
-      <li>Rinae's devlog: https://rinae.dev/</li>
-      <li>Seungdols Company: https://seungdols.dev/</li>
-      <li>Kooku's log: https://kooku.netlify.com/</li>
-      <li>SOSOLOG: https://so-so.dev/</li>
-      <li>delivan.dev: https://delivan.dev/</li>
-      <li>Jungin's blog: https://jungin.netlify.com/</li>
-      <li>Zero's blog: https://awesomezero.com/</li>
-      <li>Jonathan's blog: https://www.learningsomethingnew.com/</li>
-      <li>@deveely-log: https://deveely-log.netlify.com/</li>
-      <li>Hanul's blog: https://hanul-dev.netlify.com/</li>
-      <li>Hoons Blog: https://hoons-up.netlify.com/</li>
-      <li>JWN.cool: https://jwn.cool</li>
-      <li>ugaemi's dev note: https://ugaemi.github.io</li>
-      <li>Minsu's Dev Log: https://alstn2468.github.io/</li>
-      <li>Yungi's Dev Blog: https://yungis.dev/</li>
-      <li>< Taenylog />: https://taeny.dev/</li>
-      <li>brouk's devlog: https://brouk-devlog.netlify.com/</li>
-      <li>CoodingPenguin's Repository: https://cooding-penguin.netlify.com/</li>
-      <li>Garima's Tech Blog: https://garimasingh.netlify.app/ </li>
-      <li>DevRappers.dev: https://devrappers.dev/</li>
-      <li>Let's doodle: https://duduling-blog.netlify.app/</li>
-    </ul>
-  </p>
-</details>
-
-> If you're using this template, Please Pull Request for `Use case`!
 
 ## 😎 Quick Start
 
@@ -75,14 +32,14 @@ In this template...
 
 ```sh
 # create a new Gatsby site using the blog starter
-npx gatsby new my-blog-starter https://github.com/JaeYeopHan/gatsby-starter-bee
+npx gatsby new my-blog-starter https://github.com/akojif/akf-blog
 ```
 
 > If you are not using `npx`, following [Gatsby Getting Started](https://www.gatsbyjs.org/docs/quick-start)
 
 ```sh
 npm install -g gatsby-cli
-gatsby new my-blog-starter https://github.com/JaeYeopHan/gatsby-starter-bee
+gatsby new my-blog-starter https://github.com/akojif/akf-blog
 ```
 
 ### 2. Start developing
@@ -117,8 +74,6 @@ npm run post
 You can fix meta data of blog in `/gatsby-meta-config.js` file.
 
 ### 5. Publish with [netlify](https://netlify.com)
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/JaeYeopHab/gatsby-starter-bee)
 
 :bulb: if you want to deploy github pages, add following script to package.json
 
@@ -176,64 +131,3 @@ src/styles
 - Header gradient! (\$theme-gradient `/styles/variables.scss`)
 - Utterances repository! (replace repository address in `/gatsby-meta-config.js`)
   - ⚠️ Please check, this guide(https://utteranc.es/)
-
-## ☕ Like it?
-
-<a href="https://www.buymeacoffee.com/jbee" target="_blank">
-  <img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" >
-</a>
-
-## 🤔 If...
-
-If you are currently writing in the Medium, consider migration with [medium-to-own-blog](https://github.com/mathieudutour/medium-to-own-blog)!
-
-## :bug: Bug reporting
-
-[Issue](https://github.com/JaeYeopHan/gatsby-starter-bee/issues)
-
-## 🎁 Contributing
-
-[Contributing guide](./CONTRIBUTING.md)
-
-## Contributors
-
-### Code Contributors
-
-This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-
-<a href="https://github.com/JaeYeopHan/gatsby-starter-bee/graphs/contributors">
-<img src="https://opencollective.com/gatsby-starter-bee/contributors.svg?width=890&button=false" />
-</a>
-
-### Financial Contributors
-
-Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/gatsby-starter-bee/contribute)]
-
-#### Individuals
-
-<a href="https://opencollective.com/gatsby-starter-bee"><img src="https://opencollective.com/gatsby-starter-bee/individuals.svg?width=890"></a>
-
-#### Organizations
-
-Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/gatsby-starter-bee/contribute)]
-
-<a href="https://opencollective.com/gatsby-starter-bee/organization/0/website"><img src="https://opencollective.com/gatsby-starter-bee/organization/0/avatar.svg"></a>
-<a href="https://opencollective.com/gatsby-starter-bee/organization/1/website"><img src="https://opencollective.com/gatsby-starter-bee/organization/1/avatar.svg"></a>
-<a href="https://opencollective.com/gatsby-starter-bee/organization/2/website"><img src="https://opencollective.com/gatsby-starter-bee/organization/2/avatar.svg"></a>
-<a href="https://opencollective.com/gatsby-starter-bee/organization/3/website"><img src="https://opencollective.com/gatsby-starter-bee/organization/3/avatar.svg"></a>
-<a href="https://opencollective.com/gatsby-starter-bee/organization/4/website"><img src="https://opencollective.com/gatsby-starter-bee/organization/4/avatar.svg"></a>
-<a href="https://opencollective.com/gatsby-starter-bee/organization/5/website"><img src="https://opencollective.com/gatsby-starter-bee/organization/5/avatar.svg"></a>
-<a href="https://opencollective.com/gatsby-starter-bee/organization/6/website"><img src="https://opencollective.com/gatsby-starter-bee/organization/6/avatar.svg"></a>
-<a href="https://opencollective.com/gatsby-starter-bee/organization/7/website"><img src="https://opencollective.com/gatsby-starter-bee/organization/7/avatar.svg"></a>
-<a href="https://opencollective.com/gatsby-starter-bee/organization/8/website"><img src="https://opencollective.com/gatsby-starter-bee/organization/8/avatar.svg"></a>
-<a href="https://opencollective.com/gatsby-starter-bee/organization/9/website"><img src="https://opencollective.com/gatsby-starter-bee/organization/9/avatar.svg"></a>
-
-## LICENSE
-
-[MIT](./LICENSE)
-
-<div align="center">
-
-<sub><sup>Project by <a href="https://github.com/JaeYeopHan">@Jbee</a></sup></sub><small>✌</small>
-
-</div>
