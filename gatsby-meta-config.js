@@ -1,8 +1,8 @@
 module.exports = {
-    title: `Akf's Blog`,
+    title: `AKF.io`,
     description: `Blog posted about ...`,
     author: `Akf`,
-    introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
+    introduction: `Tech Savvy Dude 👨🏽‍💻`,
     siteUrl: `https://akf-blog.vercel.app`, // Your blog site url
     social: {
         twitter: `akoji_f`, // Your Twitter account
